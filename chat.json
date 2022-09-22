@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "email": "gmmmarcos@gmail.com",
+    "timestamp": "19/9/2022 23:11:22",
+    "message": "Hola, entro nuevo stock?"
+  },
+  {
+    "id": 2,
+    "email": "marcosgarzonmdq@gmail.com",
+    "timestamp": "19/9/2022 23:30:00",
+    "message": "No, nada"
+  },
+  {
+    "id": 3,
+    "email": "marcosfake@hotmail.com",
+    "timestamp": "19/9/2022 23:59:33",
+    "message": "Porque hay que cargarlo primero..."
+  },
+  {
+    "id": 4,
+    "email": "gmmmarcos@gmail.com",
+    "timestamp": "22/9/2022 13:13:14",
+    "message": "Recibido!"
+  }
+]
